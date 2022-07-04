@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*PALETA DE COLORES
+#08090A
+#8789C0
+#F4FAFF
+#7CC6FE
+#5DFDCB
+*/
+body{
+    background-color: #08090A;
+    color: #F4FAFF;
+}
+h1 {
+    font-size: 25px;
+}
+h2 {
+    font-size: 22px;
+}
+h3 {
+    font-size: 20px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px;
+}
+h6 {
+    font-size: 14px;
+}
+p{
+    font-size: 12px;
+}
+.paleta .color{
+    color: #F4FAFF;
+    width: 50;
+    height: 50;
+    background-color: #08090A;
+}
+.paleta .color2{
+    width: 50;
+    height: 50;
+    background-color: #8789C0;
+}
+.paleta .color3{
+    color: #08090A;
+    width: 50;
+    height: 50;
+    background-color: #F4FAFF;
+}
+.paleta .color4{
+    width: 50;
+    height: 50;
+    background-color: #7CC6FE;
+}
+.paleta .color5{
+    width: 50;
+    height: 50;
+    background-color: #5DFDC8;
+}
